@@ -12,7 +12,6 @@ The test below shows that the code can be read onchain.
 
 ![alt text](image-1.png)
 
- ---
 ![alt text](image-2.png)
 
 **Recommended Mitigation:**
